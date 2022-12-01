@@ -1,2 +1,1 @@
-# transportation-simplex-method
-The Transportation Simplex Method solver
+# The Transportation Simplex Method solver
