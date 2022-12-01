@@ -1,6 +1,6 @@
 # The Transportation Simplex Method solver
 
-## Implememtation Details
+## Implementation Details
 
 - The problem is represented using matrix form of different problem sizes;
 
