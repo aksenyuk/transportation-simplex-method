@@ -1,5 +1,7 @@
 # The Transportation Simplex Method solver
 
+Co-authored-by: [@giminosk](https://github.com/Giminosk)
+
 ## Implementation Details
 
 - The problem is represented using matrix form of different problem sizes;
